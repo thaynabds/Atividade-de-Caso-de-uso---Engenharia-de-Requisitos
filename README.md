@@ -2,8 +2,8 @@
 # Atividade — Diagrama de Caso de Uso
 
 **Aluna:** Thayná Batista da Silva  
-**Disciplina:** Análise e Projeto de Sistemas  
-**Instituição:** Senac  
+**Disciplina:** ENGENHARIA DE REQUISITOS - 2026.1
+**Instituição:** Faculdade Senac  
 **Ferramenta utilizada:** [Lucid.app](https://lucid.app/)
 
 ---
